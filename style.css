@@ -1,0 +1,31 @@
+.heading{
+    top: 50px;
+    padding-left: 100px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.first-move {
+    padding-top: 70px;
+    padding-left: 100px;
+    font-size: 35px;
+}
+
+.opening{
+    border: 2px solid #000000;
+    background-color: #A9A9A9;
+    height: 300px;
+    margin: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.img_opening{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.text_opening{
+    padding-left: 50px;
+}
